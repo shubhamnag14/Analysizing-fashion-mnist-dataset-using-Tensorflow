@@ -31,4 +31,4 @@ Each row is a separate image:
 
 Column 1 is the class label.
 Remaining columns are pixel numbers (784 total).
-Each value is the darkness of the pixel (1 to 255)
+Each value is the darkness of the pixel (1 to 255).
